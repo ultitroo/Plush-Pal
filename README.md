@@ -7,7 +7,7 @@ FEATURES:
 
 # How to change Player Skin
 
-- Open Zip File
+- open the resource pack zip file
 - inside should be assets, pack.mcmeta, and pack.png
 - open assets/minecraft/texture/item
 - replace skin.png with your skin
