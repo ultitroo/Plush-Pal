@@ -1,0 +1,15 @@
+{
+  "itemSpecific": {
+    "minecraft:totem_of_undying": {
+      "kind": "INGREDIENT",
+      "transforms": {
+        "right": {
+          "scale": 2.0,
+        },
+        "left": {
+          "scale": 2.0,
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "items": [
+    "minecraft:totem_of_undying"
+  ],
+  "geo": "minecraft:punchy/model_parts_items/geo/plush.geo.json",
+  "texture": "minecraft:item/skin",
+  "animations": [
+    "minecraft:punchy/model_parts_items/animations/plush.animation.json"
+  ],
+   "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        137,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        137,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        152,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        -6.75
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        152,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        -6.75
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -10,
+        146,
+        16
+      ],
+      "translation": [
+        0,
+        -2,
+        0
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        14.25,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1.75,
+        -7
+      ]
+    }
+  },
+  "modelPartsAnimation": [
+    {
+      "type": "hand_in",
+      "name": "plush_pull_up_w_sound",
+      "disable_walk_on_water_animation": true
+    },
+    {
+      "type": "idle",
+      "name": "plush_idle_loop",
+      "disable_walk_on_water_animation": true
+    },
+    {
+      "type": "falling",
+      "name": "plush_fall",
+      "disable_walk_on_water_animation": true
+    },
+    {
+      "type": "idle",
+      "name": "plush_idle_swim",
+      "inside_water": true,
+      "disable_walk_on_water_animation": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/plush",
+  "display": {
+    "thirdperson_righthand": {
+	"rotation": [0, 0, 0],
+	"translation": [0, 2, 0],
+	"scale": [0.3, 0.3, 0.3]
+	},
+    "thirdperson_lefthand": {
+	"rotation": [0, 0, 0],
+	"translation": [0, 2, 0],
+	"scale": [0.3, 0.3, 0.3]
+	},
+    "gui": {
+	"rotation": [-10, 146, 16],
+	"translation": [0, -2, 0],
+	"scale": [0.7, 0.7, 0.7]
+    }
+  }
+}
